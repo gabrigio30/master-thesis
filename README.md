@@ -60,7 +60,7 @@ Key empirical findings:
 
 ```
 📄 ExecutiveSummary.pdf — 6-page summary covering motivation, method, and results
-📄 Thesis.pdf           — ≈130-page full master thesis covering the complete transformation catalog, detector design,
+📄 MasterThesis.pdf     — ≈130-page full master thesis covering the complete transformation catalog, detector design,
                           surrogate model architecture, genetic algorithm implementation details, and extended experimental analysis
 ```
 
